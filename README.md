@@ -8,9 +8,9 @@ It saves the Attendance log as a HTML file.
 It allows to take and save notes during the class.
 
 Technologies used:
-JavaScript
-jQuery
-HTML
+JavaScript,
+jQuery,
+HTML,
 CSS
 
 
